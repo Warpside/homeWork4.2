@@ -30,7 +30,6 @@ public class Main {
             if (w > pastYears) {
                 System.out.println(w);
 
-
             }
         }
     }
